@@ -1,7 +1,7 @@
-[![MC WALLPAPER](https://imgur.com/a/AmlXpsB.gif)](https://mcordob.github.io/) 
-<p>
-  <h1 align="center"><b>Hi there👋, I'm Meyel! - Student of Cybersecurity and Programming</b></h1>
-</p>
+<div id="header" align="center">
+	<img src="https://imgur.com/a/AmlXpsB.gif" width="200" />
+	<h1 align="center"><b>Hi there👋, I'm Meyel! - Student of Cybersecurity and Programming</b></h1>
+</div>
 
 ***
 
