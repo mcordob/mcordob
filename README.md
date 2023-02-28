@@ -1,4 +1,4 @@
-  [![MCORDOB WALLPAPER]([https://i.gifer.com/BeTz.gif](https://imgur.com/a/AmlXpsB))](#)
+[![MC WALLPAPER](https://i.imgur.com/9Bk43XP.png)](https://mcordob.github.io/) 
 <p>
   <h1 align="center"><b>Hi there👋, I'm Meyel! - Student of Cybersecurity and Programming</b></h1>
 </p>
