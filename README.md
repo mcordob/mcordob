@@ -31,6 +31,7 @@
 
 
 ## Portafolio
+- 📝 [Portafolio y informacion detallada](https://mcordob.github.io/)
 <br>
 
 ***
