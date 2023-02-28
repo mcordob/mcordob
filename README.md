@@ -1,4 +1,4 @@
-  [![MCORDOB WALLPAPER](https://i.gifer.com/BeTz.gif)](#)
+  [![MCORDOB WALLPAPER]([https://i.gifer.com/BeTz.gif](https://imgur.com/a/AmlXpsB))](#)
 <p>
   <h1 align="center"><b>Hi there👋, I'm Meyel! - Student of Cybersecurity and Programming</b></h1>
 </p>
@@ -30,7 +30,7 @@
 - 🖼 Me encanta las computadoras, por eso estudio Ciberseguridad!
 
 
-## Portafolio
+### Portafolio
 - 📝 [Portafolio y informacion detallada](https://mcordob.github.io/)
 <br>
 
