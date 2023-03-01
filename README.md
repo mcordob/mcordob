@@ -1,4 +1,4 @@
-![Alt Text](https://imgur.com/qOoswB2.gif)
+![Alt Text](https://imgur.com/qOoswB2.gif | ancho=100)
 
 <div id="header" align="center">
 	<h1 align="center"><b>Hi there👋, I'm Meyel! - Student of Cybersecurity and Programming</b></h1>
