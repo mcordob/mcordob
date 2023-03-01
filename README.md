@@ -1,5 +1,6 @@
+![Alt Text](https://imgur.com/qOoswB2.gif)
+
 <div id="header" align="center">
-	<img src="https://imgur.com/a/AmlXpsB.gif" width="200" />
 	<h1 align="center"><b>Hi there👋, I'm Meyel! - Student of Cybersecurity and Programming</b></h1>
 </div>
 
