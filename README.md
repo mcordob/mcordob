@@ -24,7 +24,7 @@
 - 🔭 Me encanta programar en Node.js ya que tengo mi bot propio de discord: [Violet](https://violetevergardenbot.github.io/)
 - 🥅 Metas: Ampliar mis conocimientos y intentar crear algo importante
 - 💬 Preguntame lo que quieras :smile:
-- 📬 Contacta conmigo: [Discord | Evergarden Network](https://discord.gg/sRbsCKTpDU)
+- 📬 Contacta conmigo: [Discord | CraftedRealms Network](https://discord.gg/jJ3zpSxwba)
 - 🧗 Intento superar mis limites
 - 🖼 Me encanta las computadoras, por eso estudio Ciberseguridad!
 
