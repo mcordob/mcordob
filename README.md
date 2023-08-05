@@ -21,7 +21,7 @@
 ### Sobre mi
 
 - 💻 Estoy aprendiendo HTML y CSS entre otros
-- 🔭 Me encanta programar en Node.js ya que tengo mi bot propio de discord: [Violet](https://violetevergardenbot.github.io/)
+- 🔭 Me encanta programar en Node.js ya que tengo mi bot propio de discord: [Himiko](https://violetevergardenbot.github.io/)
 - 🥅 Metas: Ampliar mis conocimientos y intentar crear algo importante
 - 💬 Preguntame lo que quieras :smile:
 - 📬 Contacta conmigo: [Discord | CraftedRealms Network](https://discord.gg/jJ3zpSxwba)
