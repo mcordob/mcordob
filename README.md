@@ -1,42 +1,23 @@
-![Alt Text](https://imgur.com/qOoswB2.gif)
+- 🔭 Estoy actualmente trabajando en (Serva)[docs.serva.fun] mi bot multifuncional enfocado en la seguridad.
+- 🌱 Estoy intentado aprender React🤓.
+- 👯 Si necesitas ayuda en discord.js avisame! 🤝.
+- 🤔 I’m looking for help with [TCS-CodeVita-practice-problems](https://github.com/akatsuki-org/TCS-CodeVita-practice-problems)🧾
+- 💬 Preguntame cualquier cosa! 😁.
+- ⚡ Dato divertido: Estoy aprendiendo programacion desde 2018 y no me dedico a eso 💻.
 
-<div id="header" align="center">
-	<h1 align="center"><b>Hi there👋, I'm Meyel! - Student of Cybersecurity and Programming</b></h1>
-</div>
+<br />
 
----
+### 🚀 Skills
+<!-- char. for indicating : %20 🟢 ⚪ -->
+![python](https://img.shields.io/badge/python%20🟢🟢⚪⚪⚪-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)  
+![javascript](https://img.shields.io/badge/javascript%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white&labelColor=black)  
+![reactjs](https://img.shields.io/badge/react%20🟢⚪⚪⚪⚪-%233776AB.svg?&style=flat-square&logo=react&logoColor=white)  
+![nodejs](https://img.shields.io/badge/nodejs%20🟢🟢🟢🟢🟢-%233776AB.svg?&style=flat-square&logo=nodejs&logoColor=white) <!-- TODO: upload icon -->  
+![html](https://img.shields.io/badge/html%20🟢🟢⚪⚪⚪-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)  
+![css](https://img.shields.io/badge/css%20🟢🟢⚪⚪⚪-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)  
 
-<p>
-  <h4 align="center"><b><i>"Programar no solo es una habilidad, es el superpoder que te permite crear el futuro que imaginas".</i></b></h4>
-</p>
-
----
-
-<p align="center">
-<br>
-</p>
-
-<br>
-
-### Sobre mi
-
-- 💻 Estoy aprendiendo HTML y CSS entre otros
-- 🔭 Me encanta programar en Node.js ya que tengo mi bot propio de discord: [Himiko](https://violetevergardenbot.github.io/)
-- 🥅 Metas: Ampliar mis conocimientos y intentar crear algo importante
-- 💬 Preguntame lo que quieras :smile:
-- 📬 Contacta conmigo: 
-- 🧗 Intento superar mis limites
-- 🖼 Me encanta las computadoras, por eso estudio Ciberseguridad!
-
-### Portafolio
-
-- 📝 [Portafolio y informacion detallada](https://mcordob.github.io/)
-  <br>
-
----
-
-### Estadísticas de Github
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mcordob&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de Meyel." width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcordob&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por Meyel.">
+<br />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
