@@ -1,4 +1,4 @@
-- 🔭 Estoy actualmente trabajando en (Serva)[docs.serva.fun] mi bot multifuncional enfocado en la seguridad.
+- 🔭 Estoy actualmente trabajando en (Serva)[https://docs.serva.fun/] mi bot multifuncional enfocado en la seguridad.
 - 🌱 Estoy intentado aprender React🤓.
 - 👯 Si necesitas ayuda en discord.js avisame! 🤝.
 - 🤔 I’m looking for help with [TCS-CodeVita-practice-problems](https://github.com/akatsuki-org/TCS-CodeVita-practice-problems)🧾
